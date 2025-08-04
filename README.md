@@ -1,7 +1,7 @@
 
 This is an online repository gathering all codes employed for the analyses presented in the paper (Anguita-Ruiz A et al. (2025)). The purpose of this repository is to allow researchers to reproduce the pipeline presented in the paper, as well as to adapt provided codes for the analyses of their own datasets.
 
-This paper has been submitted for publication in *Clinical Epigenetics*.
+This paper has been submitted for publication in *Cardiovascular Diabetology*.
 
 All source code used to generate results in the paper are organized in folder listed. For a detailed description, please read the paper extensively.
 
